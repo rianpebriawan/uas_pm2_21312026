@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679879982172",
+    "project_id": "uas-susulan-21312026",
+    "storage_bucket": "uas-susulan-21312026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679879982172:android:b22e84350b53f37034ba99",
+        "android_client_info": {
+          "package_name": "com.example.uas_susulan_21312026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYdHuUCWOwmx15Q7BvG9VhbL0Y2TRP9qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
